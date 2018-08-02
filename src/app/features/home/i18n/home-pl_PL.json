@@ -1,0 +1,6 @@
+{
+  "HOME": {
+    "TITLE": "Moduł Macierzysty",
+    "WITH_PARAMS": "To jest tekst z parametrami - PARAMETRY TO: {{aNumber}}, {{aString}} oraz {{aBoolean}}"
+  }
+}

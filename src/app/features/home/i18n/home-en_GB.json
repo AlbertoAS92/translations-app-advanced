@@ -1,0 +1,6 @@
+{
+  "HOME": {
+    "TITLE": "Home Module",
+    "WITH_PARAMS": "This is a text with parameters - THE PARAMETERS ARE: {{aNumber}}, {{aString}} and {{aBoolean}}"
+  }
+}
